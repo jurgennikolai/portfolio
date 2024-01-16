@@ -1,0 +1,229 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1625.95" height="1080" viewBox="0 0 1625.95 1080">
+  <style>
+  [data-name="start-g1"] {
+    animation: spark 2.5s ease-out infinite;
+    opacity:0;
+  }
+  [data-name="start-g2"] {
+    animation: spark 2s cubic-bezier(.31,-0.01,.57,1) infinite;
+    opacity:0;
+  }
+  [data-name="start-g3"]{
+    animation: spark 3s cubic-bezier(1,-0.01,.57,1) infinite;
+    opacity:0;
+  }
+  [data-name="start-g4"]{
+    animation: spark 3.5s cubic-bezier(.62,0,.33,.83) infinite;
+    opacity:0;
+  }
+  [data-name="start-g5"]{
+    animation: spark 4s cubic-bezier(.62,0,.82,1.28) infinite;
+    opacity:0;
+  }
+
+  @keyframes spark {
+    0% {
+        opacity: 0;
+    }
+
+    50% {
+        opacity: 1;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
+  </style>
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Trazado_2848" data-name="Trazado 2848" d="M2211.2,302.329s-330.7-184.959-641.289,0-364.071-104.778-540.015,0S677.8,380.3,780.2,637.723s-194.95,73.716-194.95,274.585,405.147,156.926,228.6,262.065-121.917,125.753-121.917,125.753H2211.2Z" transform="translate(-164.92 51.114)" fill="#fff"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectángulo_43" data-name="Rectángulo 43" width="1625.817" height="1080" transform="translate(0)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.457" y1="1.005" x2="0.54" y2="0.03" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#262166"/>
+      <stop offset="1" stop-color="#09071e"/>
+    </linearGradient>
+  </defs>
+  <g id="Enmascarar_grupo_4" data-name="Enmascarar grupo 4" transform="translate(-420.327 -271.239)" clip-path="url(#clip-path)">
+    <g id="Grupo_354" data-name="Grupo 354" transform="translate(2046.276 1351.239) rotate(180)">
+      <g id="Grupo_353" data-name="Grupo 353" transform="translate(0 0)" clip-path="url(#clip-path-2)">
+        <g id="Grupo_352" data-name="Grupo 352" transform="translate(-241.092 -0.041)">
+          <g id="Grupo_351" data-name="Grupo 351" transform="translate(0 0)">
+            <g id="Grupo_350" data-name="Grupo 350">
+              <g id="Grupo_349" data-name="Grupo 349">
+                <rect id="Rectángulo_40" data-name="Rectángulo 40" width="1876.036" height="1080" transform="translate(0 0.041)" fill="url(#linear-gradient)"/>
+                <g id="Grupo_288" data-name="Grupo 288" transform="translate(250.375 40.65)">
+                  <path id="start-g5" d="M3.266,1.62A1.633,1.633,0,1,1,1.639,0,1.622,1.622,0,0,1,3.266,1.62Z" transform="translate(1192.242 139.318)" fill="#96bfff" fill-rule="evenodd"/>
+                  <path id="start-g5-2" data-name="start-g5" d="M3.266,1.62A1.633,1.633,0,1,1,1.631,0,1.626,1.626,0,0,1,3.266,1.62Z" transform="translate(1385.192 83.88)" fill="#96bfff" fill-rule="evenodd"/>
+                  <ellipse id="start-g5-3" data-name="start-g5" cx="1.631" cy="1.619" rx="1.631" ry="1.619" transform="translate(1502.457 70.36)" fill="#96bfff"/>
+                  <path id="start-g5-4" data-name="start-g5" d="M3.263,1.624A1.631,1.631,0,1,1,1.628,0,1.631,1.631,0,0,1,3.263,1.624Z" transform="translate(1129.989 243.071)" fill="#4799fc" fill-rule="evenodd"/>
+                  <path id="start-g5-5" data-name="start-g5" d="M3.267,1.62A1.633,1.633,0,1,1,1.631,0,1.63,1.63,0,0,1,3.267,1.62Z" transform="translate(1216.19 327.889)" fill="#4799fc" fill-rule="evenodd"/>
+                  <path id="start-g5-6" data-name="start-g5" d="M3.267,1.62A1.633,1.633,0,0,1,0,1.62a1.633,1.633,0,0,1,3.267,0Z" transform="translate(1237.573 127.92)" fill="#4799fc" fill-rule="evenodd"/>
+                  <path id="start-g5-7" data-name="start-g5" d="M3.266,1.62A1.633,1.633,0,1,1,1.639,0,1.625,1.625,0,0,1,3.266,1.62Z" transform="translate(1035.27 317.649)" fill="#4799fc" fill-rule="evenodd"/>
+                  <path id="start-g5-8" data-name="start-g5" d="M3.266,1.62A1.633,1.633,0,1,1,1.639,0,1.625,1.625,0,0,1,3.266,1.62Z" transform="translate(1072.298 87.12)" fill="#4799fc" fill-rule="evenodd"/>
+                  <path id="start-g5-9" data-name="start-g5" d="M3.274,1.62A1.637,1.637,0,0,1,0,1.62a1.637,1.637,0,0,1,3.274,0Z" transform="translate(1166.246 269.904)" fill="#47cafc" fill-rule="evenodd"/>
+                  <path id="start-g5-10" data-name="start-g5" d="M3.266,1.62A1.633,1.633,0,0,1,0,1.62a1.633,1.633,0,0,1,3.266,0Z" transform="translate(1302.291 85.5)" fill="#47cafc" fill-rule="evenodd"/>
+                  <path id="start-g5-11" data-name="start-g5" d="M3.263,1.624A1.631,1.631,0,1,1,1.635,0,1.624,1.624,0,0,1,3.263,1.624Z" transform="translate(1026.857 207.895)" fill="#47cafc" fill-rule="evenodd"/>
+                  <path id="start-g5-12" data-name="start-g5" d="M3.267,1.62A1.633,1.633,0,1,1,1.628,0,1.629,1.629,0,0,1,3.267,1.62Z" transform="translate(1094.289 67.995)" fill="#86ffff" fill-rule="evenodd"/>
+                  <path id="start-g5-13" data-name="start-g5" d="M3.266,1.62A1.622,1.622,0,0,1,1.639,3.24,1.62,1.62,0,1,1,3.266,1.62Z" transform="translate(991.511 1.624)" fill="#4799fc" fill-rule="evenodd"/>
+                  <path id="start-g5-14" data-name="start-g5" d="M3.263,1.62A1.631,1.631,0,1,1,1.635,0,1.622,1.622,0,0,1,3.263,1.62Z" transform="translate(566.878 306.704)" fill="#4799fc" fill-rule="evenodd"/>
+                  <path id="start-g5-15" data-name="start-g5" d="M3.263,1.624A1.631,1.631,0,1,1,1.631,0,1.627,1.627,0,0,1,3.263,1.624Z" transform="translate(471.014 232.635)" fill="#96bfff" fill-rule="evenodd"/>
+                  <path id="start-g5-16" data-name="start-g5" d="M3.266,1.624A1.633,1.633,0,1,1,1.639,0,1.624,1.624,0,0,1,3.266,1.624Z" transform="translate(372.297 111.392)" fill="#96bfff" fill-rule="evenodd"/>
+                  <path id="start-g5-17" data-name="start-g5" d="M3.266,1.62A1.633,1.633,0,1,1,1.631,0,1.628,1.628,0,0,1,3.266,1.62Z" transform="translate(565.247 55.954)" fill="#96bfff" fill-rule="evenodd"/>
+                  <path id="start-g5-18" data-name="start-g5" d="M3.266,1.624A1.633,1.633,0,1,1,1.631,0,1.626,1.626,0,0,1,3.266,1.624Z" transform="translate(747.238 134.977)" fill="#96bfff" fill-rule="evenodd"/>
+                  <path id="start-g5-19" data-name="start-g5" d="M3.263,1.624A1.631,1.631,0,1,1,1.628,0,1.633,1.633,0,0,1,3.263,1.624Z" transform="translate(1016.454)" fill="#96bfff" fill-rule="evenodd"/>
+                  <path id="start-g5-20" data-name="start-g5" d="M3.266,1.62A1.633,1.633,0,1,1,1.635,0,1.628,1.628,0,0,1,3.266,1.62Z" transform="translate(682.506 42.434)" fill="#96bfff" fill-rule="evenodd"/>
+                  <path id="start-g4" d="M3.263,1.62A1.631,1.631,0,1,1,1.635,0,1.622,1.622,0,0,1,3.263,1.62Z" transform="translate(310.037 215.149)" fill="#4799fc" fill-rule="evenodd"/>
+                  <ellipse id="start-g4-2" data-name="start-g4" cx="1.632" cy="1.621" rx="1.632" ry="1.621" transform="translate(396.242 299.964)" fill="#4799fc"/>
+                  <path id="start-g4-3" data-name="start-g4" d="M3.266,1.624A1.633,1.633,0,1,1,1.635,0,1.627,1.627,0,0,1,3.266,1.624Z" transform="translate(417.621 99.994)" fill="#4799fc" fill-rule="evenodd"/>
+                  <path id="start-g4-4" data-name="start-g4" d="M3.266,1.62A1.633,1.633,0,1,1,1.635,0,1.623,1.623,0,0,1,3.266,1.62Z" transform="translate(756.09 184.858)" fill="#4799fc" fill-rule="evenodd"/>
+                  <ellipse id="start-g4-5" data-name="start-g4" cx="1.632" cy="1.621" rx="1.632" ry="1.621" transform="translate(215.326 289.725)" fill="#4799fc"/>
+                  <path id="start-g4-6" data-name="start-g4" d="M3.266,1.624A1.633,1.633,0,1,1,1.635,0,1.625,1.625,0,0,1,3.266,1.624Z" transform="translate(252.353 59.194)" fill="#4799fc" fill-rule="evenodd"/>
+                  <path id="start-g4-7" data-name="start-g4" d="M3.263,1.62A1.623,1.623,0,0,1,1.631,3.24,1.62,1.62,0,1,1,3.263,1.62Z" transform="translate(472.646 173.521)" fill="#4799fc" fill-rule="evenodd"/>
+                  <path id="start-g4-8" data-name="start-g4" d="M3.266,1.62A1.633,1.633,0,1,1,1.635,0,1.627,1.627,0,0,1,3.266,1.62Z" transform="translate(346.301 241.982)" fill="#47cafc" fill-rule="evenodd"/>
+                  <path id="start-g4-9" data-name="start-g4" d="M3.266,1.62A1.633,1.633,0,1,1,1.639,0,1.625,1.625,0,0,1,3.266,1.62Z" transform="translate(482.346 57.574)" fill="#47cafc" fill-rule="evenodd"/>
+                  <path id="start-g4-10" data-name="start-g4" d="M3.266,1.62A1.633,1.633,0,1,1,1.635,0,1.628,1.628,0,0,1,3.266,1.62Z" transform="translate(944.04 154.941)" fill="#fff" fill-rule="evenodd"/>
+                  <path id="start-g4-11" data-name="start-g4" d="M3.263,1.62A1.631,1.631,0,1,1,1.635,0,1.625,1.625,0,0,1,3.263,1.62Z" transform="translate(905.22 396.64)" fill="#fff" fill-rule="evenodd"/>
+                  <path id="start-g4-12" data-name="start-g4" d="M3.263,1.62A1.623,1.623,0,0,1,1.628,3.24,1.62,1.62,0,1,1,3.263,1.62Z" transform="translate(1068.322 395.019)" fill="#fff" fill-rule="evenodd"/>
+                  <path id="start-g4-13" data-name="start-g4" d="M3.263,1.62A1.631,1.631,0,1,1,1.628,0,1.628,1.628,0,0,1,3.263,1.62Z" transform="translate(823.091 285.571)" fill="#fff" fill-rule="evenodd"/>
+                  <path id="start-g4-14" data-name="start-g4" d="M3.266,1.624A1.633,1.633,0,1,1,1.631,0,1.631,1.631,0,0,1,3.266,1.624Z" transform="translate(842.17 114.636)" fill="#47cafc" fill-rule="evenodd"/>
+                  <ellipse id="start-g4-15" data-name="start-g4" cx="1.632" cy="1.621" rx="1.632" ry="1.621" transform="translate(629.192 174.404)" fill="#47cafc"/>
+                  <path id="start-g4-16" data-name="start-g4" d="M3.263,1.624A1.631,1.631,0,1,1,1.628,0,1.628,1.628,0,0,1,3.263,1.624Z" transform="translate(181.099 66.001)" fill="#96bfff" fill-rule="evenodd"/>
+                  <ellipse id="start-g3" cx="1.632" cy="1.621" rx="1.632" ry="1.621" transform="translate(556.036 89.59)" fill="#96bfff"/>
+                  <path id="start-g3-2" data-name="start-g3" d="M3.266,1.62A1.633,1.633,0,1,1,1.635,0,1.625,1.625,0,0,1,3.266,1.62Z" transform="translate(118.835 169.758)" fill="#4799fc" fill-rule="evenodd"/>
+                  <path id="start-g3-3" data-name="start-g3" d="M3.263,1.62A1.631,1.631,0,1,1,1.635,0,1.622,1.622,0,0,1,3.263,1.62Z" transform="translate(205.039 254.575)" fill="#4799fc" fill-rule="evenodd"/>
+                  <path id="start-g3-4" data-name="start-g3" d="M3.266,1.624A1.633,1.633,0,1,1,1.635,0,1.625,1.625,0,0,1,3.266,1.624Z" transform="translate(153.464 355.15)" fill="#4799fc" fill-rule="evenodd"/>
+                  <path id="start-g3-5" data-name="start-g3" d="M3.263,1.62A1.631,1.631,0,1,1,1.631,0,1.625,1.625,0,0,1,3.263,1.62Z" transform="translate(226.423 54.606)" fill="#4799fc" fill-rule="evenodd"/>
+                  <path id="start-g3-6" data-name="start-g3" d="M3.263,1.62A1.631,1.631,0,1,1,1.628,0,1.626,1.626,0,0,1,3.263,1.62Z" transform="translate(564.892 139.467)" fill="#4799fc" fill-rule="evenodd"/>
+                  <path id="start-g3-7" data-name="start-g3" d="M3.263,1.62A1.631,1.631,0,1,1,1.628,0,1.63,1.63,0,0,1,3.263,1.62Z" transform="translate(24.127 244.335)" fill="#4799fc" fill-rule="evenodd"/>
+                  <path id="start-g3-8" data-name="start-g3" d="M3.263,1.62A1.631,1.631,0,1,1,1.628,0,1.628,1.628,0,0,1,3.263,1.62Z" transform="translate(61.155 13.807)" fill="#4799fc" fill-rule="evenodd"/>
+                  <path id="start-g3-9" data-name="start-g3" d="M3.266,1.62A1.633,1.633,0,1,1,1.631,0,1.631,1.631,0,0,1,3.266,1.62Z" transform="translate(155.099 196.591)" fill="#47cafc" fill-rule="evenodd"/>
+                  <path id="start-g3-10" data-name="start-g3" d="M3.266,1.62A1.633,1.633,0,1,1,1.639,0,1.622,1.622,0,0,1,3.266,1.62Z" transform="translate(437.988 129.013)" fill="#47cafc" fill-rule="evenodd"/>
+                  <path id="start-g3-11" data-name="start-g3" d="M3.266,1.62A1.633,1.633,0,1,1,1.639,0,1.625,1.625,0,0,1,3.266,1.62Z" transform="translate(726.019 148.984)" fill="#47cafc" fill-rule="evenodd"/>
+                  <path id="start-g3-12" data-name="start-g3" d="M3.263,1.62A1.631,1.631,0,1,1,1.628,0,1.628,1.628,0,0,1,3.263,1.62Z" transform="translate(670.633 241.982)" fill="#47cafc" fill-rule="evenodd"/>
+                  <ellipse id="start-g3-13" data-name="start-g3" cx="1.632" cy="1.621" rx="1.632" ry="1.621" transform="translate(507.238 253.925)" fill="#47cafc"/>
+                  <path id="start-g3-14" data-name="start-g3" d="M3.266,1.62A1.633,1.633,0,1,1,1.635,0,1.623,1.623,0,0,1,3.266,1.62Z" transform="translate(915.963 136.601)" fill="#47cafc" fill-rule="evenodd"/>
+                  <path id="start-g3-15" data-name="start-g3" d="M3.266,1.62A1.633,1.633,0,0,1,0,1.62a1.633,1.633,0,0,1,3.266,0Z" transform="translate(924.372 80.102)" fill="#4799fc" fill-rule="evenodd"/>
+                  <path id="start-g2" d="M3.263,1.62A1.631,1.631,0,1,1,1.635,0,1.624,1.624,0,0,1,3.263,1.62Z" transform="translate(704.797 474.537)" fill="#86ffff" fill-rule="evenodd"/>
+                  <path id="start-g2-2" data-name="start-g2" d="M3.266,1.62A1.633,1.633,0,1,1,1.631,0,1.626,1.626,0,0,1,3.266,1.62Z" transform="translate(454.47 536.51)" fill="#86ffff" fill-rule="evenodd"/>
+                  <path id="start-g2-3" data-name="start-g2" d="M3.266,1.62A1.633,1.633,0,1,1,1.635,0,1.628,1.628,0,0,1,3.266,1.62Z" transform="translate(931.538 590.604)" fill="#86ffff" fill-rule="evenodd"/>
+                  <path id="start-g2-4" data-name="start-g2" d="M3.266,1.62A1.627,1.627,0,0,1,1.628,3.24,1.62,1.62,0,1,1,3.266,1.62Z" transform="translate(538.3 458.91)" fill="#96bfff" fill-rule="evenodd"/>
+                  <path id="start-g2-5" data-name="start-g2" d="M3.263,1.62A1.631,1.631,0,1,1,1.631,0,1.628,1.628,0,0,1,3.263,1.62Z" transform="translate(492.46 701.015)" fill="#47cafc" fill-rule="evenodd"/>
+                  <path id="start-g2-6" data-name="start-g2" d="M3.266,1.62A1.633,1.633,0,1,1,1.639,0,1.624,1.624,0,0,1,3.266,1.62Z" transform="translate(517.981 616.797)" fill="#4799fc" fill-rule="evenodd"/>
+                  <ellipse id="start-g2-7" data-name="start-g2" cx="1.632" cy="1.621" rx="1.632" ry="1.621" transform="translate(568.113 618.511)" fill="#4799fc"/>
+                  <path id="start-g2-8" data-name="start-g2" d="M3.266,1.62A1.633,1.633,0,1,1,1.628,0,1.631,1.631,0,0,1,3.266,1.62Z" transform="translate(684.942 721.124)" fill="#4799fc" fill-rule="evenodd"/>
+                  <path id="start-g2-9" data-name="start-g2" d="M3.263,1.62A1.631,1.631,0,1,1,1.628,0,1.628,1.628,0,0,1,3.263,1.62Z" transform="translate(681.028 597.615)" fill="#4799fc" fill-rule="evenodd"/>
+                  <path id="start-g2-10" data-name="start-g2" d="M3.266,1.62A1.633,1.633,0,1,1,1.635,0,1.625,1.625,0,0,1,3.266,1.62Z" transform="translate(547.152 508.787)" fill="#4799fc" fill-rule="evenodd"/>
+                  <path id="start-g2-11" data-name="start-g2" d="M3.263,1.624A1.631,1.631,0,1,1,1.635,0,1.624,1.624,0,0,1,3.263,1.624Z" transform="translate(1242.526 496.709)" fill="#4799fc" fill-rule="evenodd"/>
+                  <path id="start-g2-12" data-name="start-g2" d="M3.266,1.62A1.633,1.633,0,1,1,1.635,0,1.625,1.625,0,0,1,3.266,1.62Z" transform="translate(541.756 654.775)" fill="#4799fc" fill-rule="evenodd"/>
+                  <path id="start-g2-13" data-name="start-g2" d="M3.266,1.62A1.633,1.633,0,0,1,0,1.62a1.633,1.633,0,0,1,3.266,0Z" transform="translate(992.784 542.107)" fill="#4799fc" fill-rule="evenodd"/>
+                  <path id="start-g2-14" data-name="start-g2" d="M3.266,1.62A1.633,1.633,0,1,1,1.635,0,1.626,1.626,0,0,1,3.266,1.62Z" transform="translate(228.764 783.882)" fill="#4799fc" fill-rule="evenodd"/>
+                  <path id="start-g2-15" data-name="start-g2" d="M3.267,1.624A1.633,1.633,0,1,1,1.631,0,1.626,1.626,0,0,1,3.267,1.624Z" transform="translate(920.184 505.522)" fill="#86ffff" fill-rule="evenodd"/>
+                  <path id="start-g2-16" data-name="start-g2" d="M3.266,1.62A1.633,1.633,0,1,1,1.639,0,1.622,1.622,0,0,1,3.266,1.62Z" transform="translate(1000.221 518.994)" fill="#4799fc" fill-rule="evenodd"/>
+                  <path id="start-g2-17" data-name="start-g2" d="M3.263,1.62A1.623,1.623,0,0,1,1.628,3.24,1.62,1.62,0,1,1,3.263,1.62Z" transform="translate(1159.746 597.168)" fill="#4799fc" fill-rule="evenodd"/>
+                  <path id="start-g1" d="M3.266,1.62A1.633,1.633,0,1,1,1.639,0,1.624,1.624,0,0,1,3.266,1.62Z" transform="translate(658.957 587.048)" fill="#47cafc" fill-rule="evenodd"/>
+                  <path id="start-g1-2" data-name="start-g1" d="M3.263,1.624A1.631,1.631,0,1,1,1.635,0,1.624,1.624,0,0,1,3.263,1.624Z" transform="translate(735.102 478.87)" fill="#fff" fill-rule="evenodd"/>
+                  <path id="start-g1-3" data-name="start-g1" d="M3.263,1.624A1.631,1.631,0,1,1,1.628,0,1.633,1.633,0,0,1,3.263,1.624Z" transform="translate(1450.528 785.502)" fill="#fff" fill-rule="evenodd"/>
+                  <path id="start-g1-4" data-name="start-g1" d="M3.263,1.62A1.631,1.631,0,1,1,1.628,0,1.628,1.628,0,0,1,3.263,1.62Z" transform="translate(1036.909 794.205)" fill="#fff" fill-rule="evenodd"/>
+                  <path id="start-g1-5" data-name="start-g1" d="M3.266,1.62A1.633,1.633,0,1,1,1.631,0,1.628,1.628,0,0,1,3.266,1.62Z" transform="translate(405.81 792.585)" fill="#fff" fill-rule="evenodd"/>
+                  <path id="start-g1-6" data-name="start-g1" d="M3.263,1.62A1.631,1.631,0,1,1,1.628,0,1.627,1.627,0,0,1,3.263,1.62Z" transform="translate(779.954 551.276)" fill="#47cafc" fill-rule="evenodd"/>
+                  <ellipse id="start-g1-7" data-name="start-g1" cx="1.632" cy="1.621" rx="1.632" ry="1.621" transform="translate(645.567 484.191)" fill="#47cafc"/>
+                  <ellipse id="start-g1-8" data-name="start-g1" cx="1.632" cy="1.621" rx="1.632" ry="1.621" transform="translate(517.082 472.914)" fill="#47cafc"/>
+                  <path id="start-g1-9" data-name="start-g1" d="M3.263,1.62A1.631,1.631,0,1,1,1.628,0,1.628,1.628,0,0,1,3.263,1.62Z" transform="translate(461.694 565.911)" fill="#47cafc" fill-rule="evenodd"/>
+                  <path id="start-g1-10" data-name="start-g1" d="M3.266,1.624A1.633,1.633,0,1,1,1.631,0,1.633,1.633,0,0,1,3.266,1.624Z" transform="translate(692.978 507.164)" fill="#47cafc" fill-rule="evenodd"/>
+                  <path id="start-g1-11" data-name="start-g1" d="M3.255,1.624A1.628,1.628,0,1,1,1.628,0,1.624,1.624,0,0,1,3.255,1.624Z" transform="translate(1233.367 476.233)" fill="#47cafc" fill-rule="evenodd"/>
+                  <path id="start-g5-21" data-name="start-g5" d="M3.263,1.62A1.631,1.631,0,1,1,1.628,0,1.63,1.63,0,0,1,3.263,1.62Z" transform="translate(1114.038 613.608)" fill="#4799fc" fill-rule="evenodd"/>
+                  <path id="start-g4-17" data-name="start-g4" d="M3.266,1.62A1.633,1.633,0,0,1,0,1.62,1.623,1.623,0,0,1,1.631,0,1.623,1.623,0,0,1,3.266,1.62Z" transform="translate(979.36 542.042)" fill="#4799fc" fill-rule="evenodd"/>
+                  <ellipse id="start-g3-16" data-name="start-g3" cx="1.632" cy="1.621" rx="1.632" ry="1.621" transform="translate(303.478 782.261)" fill="#4799fc"/>
+                  <ellipse id="start-g2-18" data-name="start-g2" cx="1.632" cy="1.621" rx="1.632" ry="1.621" transform="translate(645.653 546.593)" fill="#4799fc"/>
+                  <path id="start-g1-12" data-name="start-g1" d="M3.266,1.62A1.622,1.622,0,0,1,1.639,3.24a1.62,1.62,0,1,1,0-3.24A1.622,1.622,0,0,1,3.266,1.62Z" transform="translate(812.607 601.654)" fill="#4799fc" fill-rule="evenodd"/>
+                  <path id="start-g2-19" data-name="start-g2" d="M3.263,1.624A1.631,1.631,0,1,1,1.628,0,1.626,1.626,0,0,1,3.263,1.624Z" transform="translate(1104.871 593.129)" fill="#47cafc" fill-rule="evenodd"/>
+                  <path id="start-g5-22" data-name="start-g5" d="M3.267,1.624A1.633,1.633,0,1,1,1.639,0,1.624,1.624,0,0,1,3.267,1.624Z" transform="translate(845.078 539.027)" fill="#4799fc" fill-rule="evenodd"/>
+                  <path id="start-g4-18" data-name="start-g4" d="M3.266,1.62A1.633,1.633,0,1,1,1.631,0,1.626,1.626,0,0,1,3.266,1.62Z" transform="translate(957.991 518.133)" fill="#4799fc" fill-rule="evenodd"/>
+                  <ellipse id="start-g3-17" data-name="start-g3" cx="1.632" cy="1.621" rx="1.632" ry="1.621" transform="translate(631.057 655.671)" fill="#86ffff"/>
+                  <path id="start-g2-20" data-name="start-g2" d="M3.266,1.62A1.633,1.633,0,1,1,1.639,0,1.625,1.625,0,0,1,3.266,1.62Z" transform="translate(711.095 669.141)" fill="#4799fc" fill-rule="evenodd"/>
+                  <path id="start-g1-13" data-name="start-g1" d="M3.263,1.624A1.631,1.631,0,1,1,1.635,0,1.624,1.624,0,0,1,3.263,1.624Z" transform="translate(1275.56 584.204)" fill="#47cafc" fill-rule="evenodd"/>
+                  <path id="start-g5-23" data-name="start-g5" d="M3.263,1.62A1.631,1.631,0,1,1,1.635,0,1.625,1.625,0,0,1,3.263,1.62Z" transform="translate(707.833 508.675)" fill="#47cafc" fill-rule="evenodd"/>
+                  <path id="start-g4-19" data-name="start-g4" d="M3.263,1.62A1.623,1.623,0,0,1,1.628,3.24,1.62,1.62,0,1,1,3.263,1.62Z" transform="translate(794.413 347.115)" fill="#86ffff" fill-rule="evenodd"/>
+                  <path id="start-g3-18" data-name="start-g3" d="M3.263,1.62A1.622,1.622,0,0,1,1.635,3.24a1.62,1.62,0,1,1,0-3.24A1.622,1.622,0,0,1,3.263,1.62Z" transform="translate(824.718 351.452)" fill="#fff" fill-rule="evenodd"/>
+                  <path id="start-g2-21" data-name="start-g2" d="M3.266,1.62A1.633,1.633,0,1,1,1.635,0,1.628,1.628,0,0,1,3.266,1.62Z" transform="translate(0 130.633)" fill="#fff" fill-rule="evenodd"/>
+                  <path id="start-g1-14" data-name="start-g1" d="M3.266,1.62A1.633,1.633,0,1,1,1.628,0,1.629,1.629,0,0,1,3.266,1.62Z" transform="translate(265.514 749.53)" fill="#fff" fill-rule="evenodd"/>
+                  <path id="start-g5-24" data-name="start-g5" d="M3.266,1.62A1.633,1.633,0,1,1,1.639,0,1.624,1.624,0,0,1,3.266,1.62Z" transform="translate(735.178 356.774)" fill="#47cafc" fill-rule="evenodd"/>
+                  <path id="start-g4-20" data-name="start-g4" d="M3.263,1.624A1.631,1.631,0,1,1,1.635,0,1.624,1.624,0,0,1,3.263,1.624Z" transform="translate(881.407 232.635)" fill="#47cafc" fill-rule="evenodd"/>
+                  <path id="start-g3-19" data-name="start-g3" d="M3.266,1.624A1.627,1.627,0,0,1,1.631,3.24,1.62,1.62,0,1,1,3.266,1.624Z" transform="translate(782.595 379.745)" fill="#47cafc" fill-rule="evenodd"/>
+                  <path id="start-g2-22" data-name="start-g2" d="M3.263,1.62A1.631,1.631,0,1,1,1.628,0,1.626,1.626,0,0,1,3.263,1.62Z" transform="translate(797.449 381.256)" fill="#47cafc" fill-rule="evenodd"/>
+                  <path id="start-g1-15" data-name="start-g1" d="M3.263,1.62A1.631,1.631,0,1,1,1.631,0,1.627,1.627,0,0,1,3.263,1.62Z" transform="translate(130.965 356.774)" fill="#47cafc" fill-rule="evenodd"/>
+                  <path id="start-g5-25" data-name="start-g5" d="M3.267,1.62A1.623,1.623,0,0,1,1.631,3.24,1.62,1.62,0,1,1,3.267,1.62Z" transform="translate(1221.962 347.115)" fill="#47cafc" fill-rule="evenodd"/>
+                  <path id="start-g4-21" data-name="start-g4" d="M3.266,1.62A1.623,1.623,0,0,1,1.631,3.24,1.62,1.62,0,1,1,3.266,1.62Z" transform="translate(1391.001 534.127)" fill="#4799fc" fill-rule="evenodd"/>
+                  <path id="start-g3-20" data-name="start-g3" d="M3.266,1.62A1.633,1.633,0,1,1,1.635,0,1.627,1.627,0,0,1,3.266,1.62Z" transform="translate(1256.327 462.561)" fill="#4799fc" fill-rule="evenodd"/>
+                  <path id="start-g2-23" data-name="start-g2" d="M3.263,1.62A1.631,1.631,0,1,1,1.635,0,1.625,1.625,0,0,1,3.263,1.62Z" transform="translate(1308.217 634.582)" fill="#4799fc" fill-rule="evenodd"/>
+                  <path id="start-g1-16" data-name="start-g1" d="M3.266,1.62A1.622,1.622,0,0,1,1.639,3.24a1.62,1.62,0,1,1,0-3.24A1.622,1.622,0,0,1,3.266,1.62Z" transform="translate(1381.834 513.651)" fill="#47cafc" fill-rule="evenodd"/>
+                  <ellipse id="start-g3-21" data-name="start-g3" cx="1.079" cy="1.071" rx="1.079" ry="1.071" transform="translate(653.719 929.383)" fill="#86ffff"/>
+                  <path id="start-g2-24" data-name="start-g2" d="M2.158,1.071A1.079,1.079,0,1,1,1.083,0,1.074,1.074,0,0,1,2.158,1.071Z" transform="translate(706.608 938.285)" fill="#4799fc" fill-rule="evenodd"/>
+                  <path id="start-g1-17" data-name="start-g1" d="M2.156,1.073A1.078,1.078,0,1,1,1.08,0,1.073,1.073,0,0,1,2.156,1.073Z" transform="translate(1079.596 882.16)" fill="#47cafc" fill-rule="evenodd"/>
+                  <path id="start-g5-26" data-name="start-g5" d="M2.156,1.071A1.078,1.078,0,1,1,1.08,0,1.074,1.074,0,0,1,2.156,1.071Z" transform="translate(704.45 832.251)" fill="#47cafc" fill-rule="evenodd"/>
+                  <path id="start-g4-22" data-name="start-g4" d="M2.156,1.071a1.073,1.073,0,0,1-1.08,1.071,1.071,1.071,0,1,1,1.08-1.071Z" transform="translate(761.661 725.492)" fill="#86ffff" fill-rule="evenodd"/>
+                  <path id="start-g3-22" data-name="start-g3" d="M2.156,1.071A1.072,1.072,0,0,1,1.08,2.141,1.071,1.071,0,1,1,1.08,0,1.072,1.072,0,0,1,2.156,1.071Z" transform="translate(781.686 728.358)" fill="#fff" fill-rule="evenodd"/>
+                  <path id="start-g2-25" data-name="start-g2" d="M2.158,1.071A1.079,1.079,0,1,1,1.08,0,1.076,1.076,0,0,1,2.158,1.071Z" transform="translate(236.726 582.446)" fill="#fff" fill-rule="evenodd"/>
+                  <path id="start-g1-18" data-name="start-g1" d="M2.158,1.07A1.079,1.079,0,1,1,1.076,0,1.076,1.076,0,0,1,2.158,1.07Z" transform="translate(412.174 991.406)" fill="#fff" fill-rule="evenodd"/>
+                  <path id="start-g5-27" data-name="start-g5" d="M2.158,1.071A1.079,1.079,0,1,1,1.083,0,1.073,1.073,0,0,1,2.158,1.071Z" transform="translate(722.522 731.875)" fill="#47cafc" fill-rule="evenodd"/>
+                  <path id="start-g4-23" data-name="start-g4" d="M2.156,1.073A1.078,1.078,0,1,1,1.08,0,1.073,1.073,0,0,1,2.156,1.073Z" transform="translate(819.146 649.848)" fill="#47cafc" fill-rule="evenodd"/>
+                  <path id="start-g3-23" data-name="start-g3" d="M2.158,1.073a1.075,1.075,0,0,1-1.08,1.068,1.071,1.071,0,1,1,1.08-1.068Z" transform="translate(753.854 747.054)" fill="#47cafc" fill-rule="evenodd"/>
+                  <path id="start-g2-26" data-name="start-g2" d="M2.156,1.071A1.078,1.078,0,1,1,1.076,0,1.074,1.074,0,0,1,2.156,1.071Z" transform="translate(763.667 748.052)" fill="#47cafc" fill-rule="evenodd"/>
+                  <path id="start-g1-19" data-name="start-g1" d="M2.156,1.071A1.078,1.078,0,1,1,1.078,0,1.075,1.075,0,0,1,2.156,1.071Z" transform="translate(323.263 731.875)" fill="#47cafc" fill-rule="evenodd"/>
+                  <path id="start-g5-28" data-name="start-g5" d="M2.158,1.071a1.073,1.073,0,0,1-1.08,1.071,1.071,1.071,0,1,1,1.08-1.071Z" transform="translate(1044.182 725.492)" fill="#47cafc" fill-rule="evenodd"/>
+                  <path id="start-g4-24" data-name="start-g4" d="M2.158,1.071a1.073,1.073,0,0,1-1.08,1.071,1.071,1.071,0,1,1,1.08-1.071Z" transform="translate(1155.881 849.067)" fill="#4799fc" fill-rule="evenodd"/>
+                  <path id="start-g3-24" data-name="start-g3" d="M2.158,1.071A1.079,1.079,0,1,1,1.08,0,1.075,1.075,0,0,1,2.158,1.071Z" transform="translate(1066.89 801.777)" fill="#4799fc" fill-rule="evenodd"/>
+                  <path id="start-g2-27" data-name="start-g2" d="M2.156,1.071A1.078,1.078,0,1,1,1.08,0,1.074,1.074,0,0,1,2.156,1.071Z" transform="translate(1101.176 915.449)" fill="#4799fc" fill-rule="evenodd"/>
+                  <path id="start-g1-20" data-name="start-g1" d="M2.158,1.071A1.072,1.072,0,0,1,1.083,2.141,1.071,1.071,0,1,1,1.083,0,1.072,1.072,0,0,1,2.158,1.071Z" transform="translate(1149.824 835.537)" fill="#47cafc" fill-rule="evenodd"/>
+                  <path id="start-g3-25" data-name="start-g3" d="M3.263,1.62A1.631,1.631,0,1,1,1.631,0,1.625,1.625,0,0,1,3.263,1.62Z" transform="translate(226.423 54.606)" fill="#4799fc" fill-rule="evenodd"/>
+                  <path id="start-g3-26" data-name="start-g3" d="M3.263,1.62A1.631,1.631,0,1,1,1.628,0,1.626,1.626,0,0,1,3.263,1.62Z" transform="translate(564.892 139.467)" fill="#4799fc" fill-rule="evenodd"/>
+                  <path id="start-g3-27" data-name="start-g3" d="M3.263,1.62A1.631,1.631,0,1,1,1.628,0,1.63,1.63,0,0,1,3.263,1.62Z" transform="translate(24.127 244.335)" fill="#4799fc" fill-rule="evenodd"/>
+                  <path id="start-g3-28" data-name="start-g3" d="M2.067,1.026A1.033,1.033,0,1,1,1.031,0,1.031,1.031,0,0,1,2.067,1.026Z" transform="translate(0.459 782.747) rotate(-90)" fill="#4799fc" fill-rule="evenodd"/>
+                  <path id="start-g3-29" data-name="start-g3" d="M2.069,1.026A1.034,1.034,0,1,1,1.033,0,1.033,1.033,0,0,1,2.069,1.026Z" transform="translate(116.232 723.243) rotate(-90)" fill="#47cafc" fill-rule="evenodd"/>
+                  <path id="start-g3-30" data-name="start-g3" d="M2.069,1.026A1.034,1.034,0,1,1,1.038,0,1.027,1.027,0,0,1,2.069,1.026Z" transform="translate(73.428 544.067) rotate(-90)" fill="#47cafc" fill-rule="evenodd"/>
+                  <path id="start-g3-31" data-name="start-g3" d="M2.069,1.026A1.034,1.034,0,1,1,1.038,0,1.029,1.029,0,0,1,2.069,1.026Z" transform="translate(86.08 361.633) rotate(-90)" fill="#47cafc" fill-rule="evenodd"/>
+                  <path id="start-g3-32" data-name="start-g3" d="M2.067,1.026A1.033,1.033,0,1,1,1.031,0,1.031,1.031,0,0,1,2.067,1.026Z" transform="translate(144.98 396.717) rotate(-90)" fill="#47cafc" fill-rule="evenodd"/>
+                  <ellipse id="start-g3-33" data-name="start-g3" cx="1.034" cy="1.027" rx="1.034" ry="1.027" transform="translate(152.546 500.206) rotate(-90)" fill="#47cafc"/>
+                  <path id="start-g3-34" data-name="start-g3" d="M2.069,1.026A1.034,1.034,0,1,1,1.036,0,1.028,1.028,0,0,1,2.069,1.026Z" transform="translate(78.234 241.327) rotate(-90)" fill="#47cafc" fill-rule="evenodd"/>
+                  <path id="start-g3-35" data-name="start-g3" d="M2.069,1.026A1.034,1.034,0,0,1,0,1.026a1.034,1.034,0,0,1,2.069,0Z" transform="translate(42.449 236.001) rotate(-90)" fill="#4799fc" fill-rule="evenodd"/>
+                  <path id="start-g2-28" data-name="start-g2" d="M2.067,1.026A1.033,1.033,0,1,1,1.036,0,1.029,1.029,0,0,1,2.067,1.026Z" transform="translate(292.276 375.078) rotate(-90)" fill="#86ffff" fill-rule="evenodd"/>
+                  <path id="start-g2-29" data-name="start-g2" d="M2.069,1.026A1.034,1.034,0,1,1,1.033,0,1.03,1.03,0,0,1,2.069,1.026Z" transform="translate(331.528 533.628) rotate(-90)" fill="#86ffff" fill-rule="evenodd"/>
+                  <path id="start-g2-30" data-name="start-g2" d="M2.069,1.026A1.034,1.034,0,1,1,1.036,0,1.031,1.031,0,0,1,2.069,1.026Z" transform="translate(365.793 231.462) rotate(-90)" fill="#86ffff" fill-rule="evenodd"/>
+                  <path id="start-g2-31" data-name="start-g2" d="M2.069,1.026A1.03,1.03,0,0,1,1.031,2.052,1.026,1.026,0,1,1,2.069,1.026Z" transform="translate(282.378 480.532) rotate(-90)" fill="#96bfff" fill-rule="evenodd"/>
+                  <path id="start-g2-32" data-name="start-g2" d="M2.067,1.026A1.033,1.033,0,1,1,1.033,0,1.031,1.031,0,0,1,2.067,1.026Z" transform="translate(435.725 509.568) rotate(-90)" fill="#47cafc" fill-rule="evenodd"/>
+                  <path id="start-g2-33" data-name="start-g2" d="M2.069,1.026A1.034,1.034,0,1,1,1.038,0,1.029,1.029,0,0,1,2.069,1.026Z" transform="translate(382.381 493.401) rotate(-90)" fill="#4799fc" fill-rule="evenodd"/>
+                  <ellipse id="start-g2-34" data-name="start-g2" cx="1.034" cy="1.027" rx="1.034" ry="1.027" transform="translate(383.467 461.649) rotate(-90)" fill="#4799fc"/>
+                  <path id="start-g2-35" data-name="start-g2" d="M2.069,1.026A1.034,1.034,0,1,1,1.031,0,1.033,1.033,0,0,1,2.069,1.026Z" transform="translate(448.459 387.651) rotate(-90)" fill="#4799fc" fill-rule="evenodd"/>
+                  <path id="start-g2-36" data-name="start-g2" d="M2.067,1.026A1.033,1.033,0,1,1,1.031,0,1.031,1.031,0,0,1,2.067,1.026Z" transform="translate(370.231 390.133) rotate(-90)" fill="#4799fc" fill-rule="evenodd"/>
+                  <path id="start-g2-37" data-name="start-g2" d="M2.069,1.026A1.034,1.034,0,1,1,1.036,0,1.029,1.029,0,0,1,2.069,1.026Z" transform="translate(313.969 474.924) rotate(-90)" fill="#4799fc" fill-rule="evenodd"/>
+                  <path id="start-g2-38" data-name="start-g2" d="M1.28.637A.64.64,0,1,1,.641,0,.637.637,0,0,1,1.28.637Z" transform="translate(51.354 799.741) rotate(-90)" fill="#4799fc" fill-rule="evenodd"/>
+                  <path id="start-g2-39" data-name="start-g2" d="M1.281.635A.641.641,0,1,1,.641,0,.637.637,0,0,1,1.281.635Z" transform="translate(113.354 1074.618) rotate(-90)" fill="#4799fc" fill-rule="evenodd"/>
+                  <path id="start-g5-29" data-name="start-g5" d="M2.021,1.006A1.01,1.01,0,1,1,1.013,0,1.006,1.006,0,0,1,2.021,1.006Z" transform="translate(499.604 909.139)" fill="#47cafc" fill-rule="evenodd"/>
+                  <path id="start-g5-30" data-name="start-g5" d="M2.023,1A1.012,1.012,0,1,1,1.008,0,1.009,1.009,0,0,1,2.023,1Z" transform="translate(541.367 822.497)" fill="#86ffff" fill-rule="evenodd"/>
+                  <path id="start-g5-31" data-name="start-g5" d="M2.023,1a1,1,0,0,1-1.008,1A1,1,0,1,1,2.023,1Z" transform="translate(477.716 781.393)" fill="#4799fc" fill-rule="evenodd"/>
+                  <path id="start-g5-32" data-name="start-g5" d="M2.021,1A1.01,1.01,0,1,1,1.013,0,1,1,0,0,1,2.021,1Z" transform="translate(214.738 970.329)" fill="#4799fc" fill-rule="evenodd"/>
+                  <path id="start-g5-33" data-name="start-g5" d="M2.021,1.006A1.01,1.01,0,1,1,1.01,0,1.008,1.008,0,0,1,2.021,1.006Z" transform="translate(155.37 924.461)" fill="#96bfff" fill-rule="evenodd"/>
+                  <path id="start-g5-34" data-name="start-g5" d="M2.023,1.006A1.011,1.011,0,1,1,1.015,0,1.006,1.006,0,0,1,2.023,1.006Z" transform="translate(94.236 849.375)" fill="#96bfff" fill-rule="evenodd"/>
+                  <path id="start-g5-35" data-name="start-g5" d="M2.023,1A1.011,1.011,0,1,1,1.01,0,1.008,1.008,0,0,1,2.023,1Z" transform="translate(213.73 815.039)" fill="#96bfff" fill-rule="evenodd"/>
+                  <path id="start-g5-36" data-name="start-g5" d="M2.023,1.006A1.011,1.011,0,1,1,1.01,0,1.007,1.007,0,0,1,2.023,1.006Z" transform="translate(326.438 863.981)" fill="#96bfff" fill-rule="evenodd"/>
+                  <path id="start-g5-37" data-name="start-g5" d="M2.021,1.006A1.01,1.01,0,1,1,1.008,0,1.012,1.012,0,0,1,2.021,1.006Z" transform="translate(493.161 780.39)" fill="#96bfff" fill-rule="evenodd"/>
+                  <path id="start-g3-36" data-name="start-g3" d="M1.905.946A.953.953,0,1,1,.95,0,.951.951,0,0,1,1.905.946Z" transform="matrix(-0.799, -0.602, 0.602, -0.799, 1558.253, 540.13)" fill="#4799fc" fill-rule="evenodd"/>
+                  <path id="start-g3-37" data-name="start-g3" d="M1.907.946A.954.954,0,1,1,.953,0,.952.952,0,0,1,1.907.946Z" transform="matrix(-0.799, -0.602, 0.602, -0.799, 1578.675, 421.876)" fill="#47cafc" fill-rule="evenodd"/>
+                  <path id="start-g3-38" data-name="start-g3" d="M1.907.946A.954.954,0,1,1,.957,0,.947.947,0,0,1,1.907.946Z" transform="matrix(-0.799, -0.602, 0.602, -0.799, 1423.005, 353.982)" fill="#47cafc" fill-rule="evenodd"/>
+                  <path id="start-g3-39" data-name="start-g3" d="M1.907.946A.954.954,0,1,1,.957,0,.949.949,0,0,1,1.907.946Z" transform="matrix(-0.799, -0.602, 0.602, -0.799, 1295.705, 243.45)" fill="#47cafc" fill-rule="evenodd"/>
+                  <path id="start-g3-40" data-name="start-g3" d="M1.905.946A.953.953,0,1,1,.95,0,.951.951,0,0,1,1.905.946Z" transform="matrix(-0.799, -0.602, 0.602, -0.799, 1354.215, 219.548)" fill="#47cafc" fill-rule="evenodd"/>
+                  <ellipse id="start-g3-41" data-name="start-g3" cx="0.953" cy="0.947" rx="0.953" ry="0.947" transform="matrix(-0.799, -0.602, 0.602, -0.799, 1434.608, 271.395)" fill="#47cafc"/>
+                  <path id="start-g3-42" data-name="start-g3" d="M1.907.946A.954.954,0,1,1,.955,0,.947.947,0,0,1,1.907.946Z" transform="matrix(-0.799, -0.602, 0.602, -0.799, 1202.775, 182.478)" fill="#47cafc" fill-rule="evenodd"/>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
